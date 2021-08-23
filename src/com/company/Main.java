@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        /*
+        
         public class DelDelWarmUp {
     /*Given a string, if the string "del" appears starting at index 1, return a string where that "del" has been deleted. Otherwise, return the string unchanged.
 
@@ -270,6 +270,6 @@ public boolean in1020(int a, int b) {
   }
 }
 return false;
-         */
+        
     }
 }
